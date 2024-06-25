@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{16A84A02-F48A-99C0-433F-81692AC93E49}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f74f30c-82db-4efe-8c94-00e921a7092e" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 1/Scripts/PlayerControllerX.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player_controls.cs" Line="26" Column="9" />
+      <File FileName="Assets/Scripts/Follow_player.cs" Line="16" Column="20" />
+      <File FileName="Assets/Challenge 1/Scripts/PlayerControllerX.cs" Line="26" Column="84" />
+      <File FileName="Assets/Challenge 1/Scripts/FollowPlayerX.cs" Line="17" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype_1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 1" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
